@@ -1,0 +1,13 @@
+======================================= the basic classes ==================================================
+mages: simple magic users don't really use weapons. are sometimes seen using wands or staffs to channel mana
+warriors: mostly uses metalic weapons
+rangers: use ranged weapons of varing catogerys
+
+======================================= 	 extinct?	    ================================================
+weavers: strange magic users using thread like weapons with medium range. taught to be extinct
+
+
+============================================= other ========================================================
+summoners: uses constructs of creatures to fight
+enchanters: can only use objects they infuse with magic
+absorbers: gate mana from diffrent universes and can use them in the most versitle ways
