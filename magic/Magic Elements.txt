@@ -1,4 +1,4 @@
-=====================Basic Elements=====================
+=====================Basic Elements===========================
 the first 4 elements that are usually regarded as the primary for in other lore interpitations,
 are the elements most magic users use as they are easier to control.
 
@@ -10,7 +10,7 @@ Water: 		the element of purity and cleansing. can be used to create liquid based
 
 Earth:		the rock solid element used to build strong fondations and create solid based spells
 
-=====================Adapet Elements=====================
+=====================Adapet Elements==========================
 the following ones are a lot more complex for most magic users to learn but generally more powerfull as well
 
 Light: 		the power to send light beams and crystals. mostly used to kill undead creatures and make complex systems to light your way in the dark
@@ -20,3 +20,7 @@ Dark:		the opisite of light. has for a very long time been used for hiding from 
 Time:		used to manipulate the time around the user or the target. can be really usefull to seal things away with
 
 Space:		used to manipulate space around the target or user. have been used to fast travel great distances in short amounts of time
+
+
+=====================Combination Elements=====================
+Life = water + earth + light ± time
